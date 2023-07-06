@@ -3,7 +3,7 @@
 	<img src="./assets/title_float_cherrypick.svg" alt="CherryPick logo" width="400"/>
 </a>
 	
-**🌎 **[CherryPick](https://misskey-hub.net/)** is an open source, decentralized social media platform that's free forever! 🚀**
+**🌎 **[Re:nekey](https://misskey-hub.net/)** is an open source, decentralized social media platform that's free forever! 🚀**
 	
 ---
 
