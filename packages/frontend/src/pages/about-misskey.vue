@@ -33,9 +33,9 @@
 					</div>
 				</FormSection>
 				<FormSection>
-					<template #label>CherryPick</template>
+					<template #label>Re:Network</template>
 					<div class="_formLinks">
-						<FormLink to="https://github.com/kokonect-link/cherrypick" external>
+						<FormLink to="https://github.com/alice-coders/Re-Network" external>
 							<template #icon><i class="ti ti-code"></i></template>
 							{{ i18n.ts._aboutMisskey.source }}
 							<template #suffix>GitHub</template>
@@ -145,6 +145,14 @@
 							<span :class="$style.contributorUsername">@noridev
 								<span :class="$style.contributorClient">
 									<span :class="$style.cherry">Cherry</span><span :class="$style.pick">Pick</span>
+								</span>
+							</span>
+						</a>
+						<a href="https://github.com/alice-coders" target="_blank" :class="$style.contributor">
+							<img src="https://avatars.githubusercontent.com/u/136943652?v=4" :class="$style.contributorAvatar">
+							<span :class="$style.contributorUsername">@noridev
+								<span :class="$style.contributorClient">
+									<span :class="$style.cherry">Re:</span><span :class="$style.pick">Network</span>
 								</span>
 							</span>
 						</a>
