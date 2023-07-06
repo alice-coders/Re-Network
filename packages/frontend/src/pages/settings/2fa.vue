@@ -219,7 +219,7 @@ async function addSecurityKey() {
 			challenge: byteify(challenge.challenge, 'base64'),
 			rp: {
 				id: hostname,
-				name: 'CherryPick',
+				name: 'Re:nekey',
 			},
 			user: {
 				id: byteify($i!.id, 'ascii'),
