@@ -7,7 +7,7 @@
 				<div v-panel class="about">
 					<div ref="containerEl" class="container" :class="{ playing: easterEggEngine != null }">
 						<img src="/client-assets/about-icon.png" alt="" class="icon" draggable="false" @load="iconLoaded" @click="gravity"/>
-						<div class="misskey">CherryPick</div>
+						<div class="misskey">Re:Network</div>
 						<div class="version">v{{ version }}</div>
 						<span v-for="emoji in easterEggEmojis" :key="emoji.id" class="emoji" :data-physics-x="emoji.left" :data-physics-y="emoji.top" :class="{ _physics_circle_: !emoji.emoji.startsWith(':') }">
 							<MkCustomEmoji v-if="emoji.emoji[0] === ':'" class="emoji" :name="emoji.emoji" :normal="true" :noStyle="true"/>
@@ -150,7 +150,7 @@
 						</a>
 						<a href="https://github.com/alice-coders" target="_blank" :class="$style.contributor">
 							<img src="https://avatars.githubusercontent.com/u/136943652?v=4" :class="$style.contributorAvatar">
-							<span :class="$style.contributorUsername">@noridev
+							<span :class="$style.contributorUsername">@alice_coders
 								<span :class="$style.contributorClient">
 									<span :class="$style.cherry">Re:</span><span :class="$style.pick">Network</span>
 								</span>
