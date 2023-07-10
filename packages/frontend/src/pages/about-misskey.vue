@@ -403,7 +403,7 @@ function gravity() {
 
 function iLoveCherryPick() {
 	os.post({
-		initialText: 'I $[jelly ❤] #CherryPick',
+		initialText: 'I $[jelly ❤] #Re:nekey',
 		instant: true,
 	});
 }

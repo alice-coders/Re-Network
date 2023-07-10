@@ -1271,7 +1271,7 @@ _achievements:
     _login3:
       title: "ビギナーⅠ"
       description: "通算ログイン日数が3日"
-      flavor: "今日からね僕は ミスキストってことで"
+      flavor: "今日からね僕は レネキストってことで"
     _login7:
       title: "ビギナーⅡ"
       description: "通算ログイン日数が7日"
@@ -1280,15 +1280,15 @@ _achievements:
       title: "ビギナーⅢ"
       description: "通算ログイン日数が15日"
     _login30:
-      title: "ミスキストⅠ"
+      title: "レネキストⅠ"
       description: "通算ログイン日数が30日"
     _login60:
-      title: "ミスキストⅡ"
+      title: "レネキストⅡ"
       description: "通算ログイン日数が60日"
     _login100:
-      title: "ミスキストⅢ"
+      title: "レネキストⅢ"
       description: "通算ログイン日数が100日"
-      flavor: "そのユーザー、ミスキストにつき"
+      flavor: "そのユーザー、レネキストにつき"
     _login200:
       title: "常連Ⅰ"
       description: "通算ログイン日数が200日"
@@ -1378,7 +1378,7 @@ _achievements:
       description: "実績一覧を3分以上眺め続けた"
     _iLoveCherryPick:
       title: "I Love Re:nekey"
-      description: "\"I ❤ #CherryPick\"を投稿した"
+      description: "\"I ❤ #Re:nekey\"を投稿した"
       flavor: "Re:nekeyを使ってくださりありがとうございます！ by 開発チーム"
     _foundTreasure:
       title: "宝探し"
@@ -1453,7 +1453,7 @@ _achievements:
     _brainDiver:
       title: "Brain Diver"
       description: "Brain Diverへのリンクを投稿した"
-      flavor: "CherryPick-CherryPick La-Tu-Ma"
+      flavor: "Re:nekey-Re:nekey La-Tu-Ma"
 
 _role:
   new: "ロールの作成"
