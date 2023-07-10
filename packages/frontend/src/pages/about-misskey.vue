@@ -23,9 +23,9 @@
 					<MkButton primary rounded inline @click="iLoveCherryPick">I <Mfm text="$[jelly ❤]"/> #Re:nekey</MkButton>
 				</div>
 				<FormSection v-if="isKokonect">
-					<template #label>_KOKONECT_</template>
+					<template #label>Re:nekey</template>
 					<div class="_formLinks">
-						<FormLink to="https://status.kokonect.link" external>
+						<FormLink to="https://status.renekey.jp" external>
 							<template #icon><i class="ti ti-activity"></i></template>
 							{{ i18n.ts._aboutMisskey._kokonect.serverStatus }}
 							<template #suffix>Server Status</template>
